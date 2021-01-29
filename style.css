@@ -1,0 +1,51 @@
+nav{
+    position: fixed;
+    width: 100%;
+}
+.black{
+    
+    width: 100%;
+    object-fit: cover;
+}
+.carousel1{
+    margin-top: -50px;
+    margin-bottom: 40px;
+}
+body{
+    background-color: #dddd;
+}
+
+
+
+.p1{
+    height: 50%;
+}
+.wecom{
+    margin-top: 90px;
+}
+
+.shadow {
+-webkit-box-shadow: 13px 15px 14px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 15px 14px -4px rgba(0,0,0,0.75);
+box-shadow: 13px 15px 14px -4px rgba(0,0,0,0.75);
+
+ }
+ h2{
+    margin-bottom: 65px
+ }
+ .layui-icon-ios{
+    font-size: 65px;
+ }
+ .layui-icon-android{
+    font-size: 65px;
+
+ }
+ p{
+    text-align: center;
+ }
+ .cxl{
+    border-radius: 25px;border: solid 5px #fff; padding: 20px;
+ }
+ .icon{
+    height: 240px;width: 240px; margin-right: 30px
+ }
