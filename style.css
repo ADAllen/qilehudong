@@ -20,8 +20,12 @@ body{
 .p1{
     height: 50%;
 }
+.app{
+    margin-top: 60px;
+}
 .wecom{
-    margin-top: 90px;
+    margin-top: 200px;
+    
 }
 
 .shadow {
